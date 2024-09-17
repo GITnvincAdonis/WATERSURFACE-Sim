@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Watersets2
+  m_Shader: {fileID: 4800000, guid: 582b54342882f624ca1d895650111ef4, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - HeightDebug: 0
+    - _Amp1: 0.00000001
+    - _Amp2: 4.5
+    - _Amp3: 1.1
+    - _Amp4: 5.4
+    - _BAmp1: 2.7
+    - _BAmp2: 0.7
+    - _BAmp3: 0.3
+    - _BAmp4: 2.5
+    - _BSpeed1: 6.6
+    - _BSpeed2: 4.3
+    - _BSpeed3: 2.3
+    - _BSpeed4: 2.8
+    - _BWLength1: 0.213
+    - _BWLength2: 0.124
+    - _BWLength3: 0.201
+    - _BWLength4: 0.261
+    - _ScalarDisplacement: 1
+    - _Speed1: 2.8
+    - _Speed2: 6.6
+    - _Speed3: 4.3
+    - _Speed4: 13.2
+    - _WLength1: 0.103
+    - _WLength2: 0.178
+    - _WLength3: 0.061
+    - _WLength4: 0.185
+    - _rippleRefPointX: 0
+    - _rippleRefPointZ: 0
+    - _scale: 100
+    - _specularIntensity: 53.92
+    m_Colors:
+    - _BaseColor: {r: 0, g: 0.8044486, b: 1, a: 1}
+  m_BuildTextureStacks: []

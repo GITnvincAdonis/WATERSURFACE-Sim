@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Unlit_BrownianMotionSim
+  m_Shader: {fileID: 4800000, guid: dadffe0c6055e76429bdc1146e90e452, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: _BSpeed20
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - HeightDebug: 0
+    - _Amp1: 5
+    - _Amp2: 10.3
+    - _Amp3: 14.9
+    - _Amp4: 12.3
+    - _BAmp1: 0.000001
+    - _BAmp2: 0.000001
+    - _BAmp3: 0.000001
+    - _BAmp4: 0.000001
+    - _BSpeed1: 47.7
+    - _BSpeed10: 19.3
+    - _BSpeed11: 0.01
+    - _BSpeed12: 0.01
+    - _BSpeed13: 0.9
+    - _BSpeed14: 4.3
+    - _BSpeed15: 10.5
+    - _BSpeed16: 8.2
+    - _BSpeed17: 9.3
+    - _BSpeed18: 0.01
+    - _BSpeed19: 0.01
+    - _BSpeed2: 41.2
+    - _BSpeed20: 0.01
+    - _BSpeed3: 41.2
+    - _BSpeed4: 40.1
+    - _BSpeed5: 42.3
+    - _BSpeed6: 40
+    - _BSpeed7: 32.7
+    - _BSpeed8: 22
+    - _BSpeed9: 9.7
+    - _BWLength1: 0.169
+    - _BWLength2: 0.183
+    - _BWLength3: 0.054
+    - _BWLength4: 0.222
+    - _MaxSpeed: 2
+    - _ScalarDisplacement: 1
+    - _Speed1: 18.1
+    - _Speed10: 23.1
+    - _Speed11: 24.3
+    - _Speed12: 24.3
+    - _Speed13: 23.9
+    - _Speed14: 27.4
+    - _Speed15: 27
+    - _Speed16: 25.8
+    - _Speed17: 35.4
+    - _Speed18: 40.4
+    - _Speed19: 15.5
+    - _Speed2: 49.2
+    - _Speed20: 44.2
+    - _Speed3: 50
+    - _Speed4: 17
+    - _Speed5: 19.7
+    - _Speed6: 38.9
+    - _Speed7: 27
+    - _Speed8: 20.5
+    - _Speed9: 25.1
+    - _TipAttenuation: 2
+    - _VertexMaxPeak: 1.3
+    - _VertexPeakOffset: 1.62
+    - _WLength1: 0.174
+    - _WLength2: 0.169
+    - _WLength3: 0.093
+    - _WLength4: 0.112
+    - _amplitude: 1
+    - _amplitudeMult: 0.68
+    - _frequency: 1
+    - _frequencyMult: 1.36
+    - _rippleRefPointX: 0
+    - _rippleRefPointZ: 0
+    - _scale: 4
+    - _seed: 62385
+    - _seedIter: 541
+    - _specularIntensity: 40287.6
+    - _speedRamp: 0.29
+    - _vertexHeight: 1.74
+    m_Colors:
+    - _BaseColor: {r: 0.08674495, g: 0.34187722, b: 0.4056604, a: 0}
+    - _TipColor: {r: 0.6578854, g: 0.90395397, b: 0.9339623, a: 1}
+  m_BuildTextureStacks: []
